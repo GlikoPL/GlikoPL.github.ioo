@@ -1,9 +1,7 @@
-# This is Kubagliko_PL Web Site
+# This is GlikoPL Web Site
 
-Also known as Kubagliko333, GlikoPL, Glikoproteina
+Also known as Kubagliko_PL, Kubagliko333, Glikoproteina
 
 ## Links
 
 [My Friend Gnoun Website](https://gnoun.net/)
-
-[My Friend BeetMacol Website](https://beetmacol.com/)

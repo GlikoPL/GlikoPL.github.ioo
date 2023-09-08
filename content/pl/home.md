@@ -1,9 +1,7 @@
-# Oto strona Kubagliko_PL
+# Oto strona GlikoPL
 
-Znany też jako Kubagliko333, GlikoPL, Glikoproteina
+Znany też jako Kubagliko_PL, Kubagliko333, Glikoproteina
 
 ## Linki
 
 [Strona mojego przyjaciela Gnouna](https://gnoun.net/)
-
-[Strona mojego przyjaciela BeetMacola](https://beetmacol.com/)
