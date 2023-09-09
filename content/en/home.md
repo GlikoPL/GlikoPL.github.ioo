@@ -1,6 +1,6 @@
 # This is GlikoPL Web Site
 
-Also known as Kubagliko_PL, Kubagliko333, Glikoproteina
+Also known as Gliko333 or just Gliko
 
 ## Links
 

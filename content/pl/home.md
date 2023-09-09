@@ -1,7 +1,7 @@
 # Oto strona GlikoPL
 
-Znany też jako Kubagliko_PL, Kubagliko333, Glikoproteina
+Znany też jako Gliko333 albo po prostu Gliko
 
 ## Linki
 
-[Strona mojego przyjaciela Gnouna](https://gnoun.net/)
+[Strona mojego przyjaciela Gnoun'a](https://gnoun.net/)
