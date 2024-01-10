@@ -11,3 +11,12 @@ body {
     font-size: 2em;
     text-align: center;
 }
+#lang_menu a img {
+    font-size: 0;
+    margin: 0px;
+    padding: 20px 5px 10px 15px;
+    visibility: visible;
+}
+#lang_menu a {
+    visibility: hidden;
+}
