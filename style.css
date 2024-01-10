@@ -1,0 +1,13 @@
+#image {
+    height: auto;
+    width: auto;
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+body {
+    background-color:grey;
+    font-size: 2em;
+    text-align: center;
+}
