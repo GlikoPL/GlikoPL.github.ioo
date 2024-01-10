@@ -6,6 +6,8 @@ Znajdziesz tu rzeczy które robię.
 
 [Moja wesoła twórczość artystyczna](./art.md)
 
+[Absurd w Samolocie](./absurd.md)
+
 ## Linki
 
 [Strona mojego przyjaciela Gnoun'a](https://gnoun.net/)
