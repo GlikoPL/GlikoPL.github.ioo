@@ -8,6 +8,8 @@ Znajdziesz tu rzeczy które robię.
 
 [Absurd w Samolocie](./absurd.md)
 
+[Spontaniczne Twory](./spontaniczne.md)
+
 ## Linki
 
 [Strona mojego przyjaciela Gnoun'a](https://gnoun.net/)
