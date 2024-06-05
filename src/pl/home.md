@@ -1,15 +1,15 @@
-# Oto strona GlikoPL
+# Witaj na stronie GlikoPL
 
-Znajdziesz tu rzeczy które robię.
+Tutaj znajdziesz moją wesołą twórczość artystyczną :)
 
-[Co nowego](./changelog.md)
+[Opowiadania](./stories.md)
 
-[Moja wesoła twórczość artystyczna](./art.md)
+[Grafiki](./graphics.md)
 
 [Absurd w Samolocie](./absurd.md)
-
-[Spontaniczne Twory](./spontaniczne.md)
 
 ## Linki
 
 [Strona mojego przyjaciela Gnoun'a](https://gnoun.net/)
+
+[Strona mojego przyjaciela Macol'a](https://beetmacol.com/)

@@ -1,3 +1,4 @@
+Most of the graphics are made(mostly in Aseprite and Krita)
 
 <img src="/assets/art/0/spiker-fight.png"" alt="drawing">
 <img src="/assets/art/0/soul-fire.png" alt="drawing">

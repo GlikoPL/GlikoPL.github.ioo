@@ -1,7 +1,7 @@
 ## Spontaniczne Twory
 
-Seria krótkich, spontanicznych i niezwiązanych z sobą opowiadań.
-
+Seria krótkich, spontanicznych i niezwiązanych z sobą opowiadań. Nie były one poprawiane po napisaniu(i nie będą raczej), więc błędów się należy spodziewać.
+(jest ich obecnie 9, nie wrzystkie są jeszcze na tej stronie)
 
 #### Spontaniczny Twór 1
 <img src="/assets/spontaniczne/Sponatniczny-twor-1.png" alt="drawing">

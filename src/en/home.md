@@ -1,11 +1,11 @@
 # This is GlikoPL Website
 
-You can find stuff that I make here.
+Here you will find things that I made.
 
-[Changelog](./changelog.md)
-
-[My Art :)](./art.md)
+[Art](./graphics.md)
 
 ## Links
 
 [My Friend Gnoun Website](https://gnoun.net/)
+
+[My Friend Beetmacol Website](https://beetmacol.com/)

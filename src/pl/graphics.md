@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="/style.css">
-</head>
-<body>
-<div id="lang_menu">
-<a href="/pl/art.html">
-    <img src = "/assets/flag_pl.svg" width="100" height="60" alt="Polish"/>
-</a><a href="/en/art.html">
-    <img src = "/assets/flag_en.svg" width="100" height="60" alt="English"/>
-</a>
-</div>
-<p><img src="/assets/art/0/spiker-fight.png"" alt="drawing">
+Większość grafik które zrobiłem(głownie w Aseprite i Krita)
+
+<img src="/assets/art/0/spiker-fight.png"" alt="drawing">
 <img src="/assets/art/0/soul-fire.png" alt="drawing">
 <img src="/assets/art/0/plant-three-stages.png" alt="drawing">
 <img src="/assets/art/0/gloomer.png" alt="drawing">
@@ -29,8 +18,9 @@
 <img src="/assets/art/0/Sprite-0002.gif" alt="drawing">
 <img src="/assets/art/0/Sprite-0003.gif" alt="drawing">
 <img src="/assets/art/0/Sprite-0004.gif" alt="drawing">
-<img src="/assets/art/0/Sprite-0005.gif" alt="drawing"></p>
-<p><img src="/assets/art/1/Animal1.png" alt="drawing">
+<img src="/assets/art/0/Sprite-0005.gif" alt="drawing">
+
+<img src="/assets/art/1/Animal1.png" alt="drawing">
 <img src="/assets/art/1/Character-3.png" alt="drawing">
 <img src="/assets/art/1/Character-4.gif" alt="drawing">
 <img src="/assets/art/1/Ecosystem1.png" alt="drawing">
@@ -46,8 +36,9 @@
 <img src="/assets/art/1/Sprite-0003-2.gif" alt="drawing">
 <img src="/assets/art/1/Stars.png" alt="drawing">
 <img src="/assets/art/1/Szesc-Ksienzycuw.gif" alt="drawing">
-<img src="/assets/art/1/Writing.png" alt="drawing"></p>
-<p><img src="/assets/art/2/2-10-23.png" alt="drawing">
+<img src="/assets/art/1/Writing.png" alt="drawing">
+
+<img src="/assets/art/2/2-10-23.png" alt="drawing">
 <img src="/assets/art/2/3-10-23.png" alt="drawing">
 <img src="/assets/art/2/4-color-worm.png" alt="drawing">
 <img src="/assets/art/2/6-10-23.png" alt="drawing">
@@ -70,8 +61,9 @@
 <img src="/assets/art/2/Scene-2.png" alt="drawing">
 <img src="/assets/art/2/Space.png" alt="drawing">
 <img src="/assets/art/2/Spiker-gb.png" alt="drawing">
-<img src="/assets/art/2/Stone.png" alt="drawing"></p>
-<p><img src="/assets/art/3/animacja1.gif" alt="drawing">
+<img src="/assets/art/2/Stone.png" alt="drawing">
+
+<img src="/assets/art/3/animacja1.gif" alt="drawing">
 <img src="/assets/art/3/Blue-tower.png" alt="drawing">
 <img src="/assets/art/3/Burning-Stick.png" alt="drawing">
 <img src="/assets/art/3/candle.png" alt="drawing">
@@ -105,5 +97,4 @@
 <img src="/assets/art/3/walka2.png" alt="drawing">
 <img src="/assets/art/3/Wielki_grzyb.gif" alt="drawing">
 <img src="/assets/art/3/wieza.png" alt="drawing">
-<img src="/assets/art/3/zwierzatko.png" alt="drawing"></p>
-</body>
+<img src="/assets/art/3/zwierzatko.png" alt="drawing">
