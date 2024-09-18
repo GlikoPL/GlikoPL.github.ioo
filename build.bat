@@ -1,1 +1,1 @@
-bgmd -i src -t src/template.html -o . -f beet
+gbmd -i src -t src/template.html -o . -f beet
