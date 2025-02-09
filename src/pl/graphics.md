@@ -1,6 +1,5 @@
-Większość grafik które zrobiłem(głownie w Aseprite i Krita)
 
-<img src="/assets/art/0/spiker-fight.png"" alt="drawing">
+<img src="/assets/art/0/spiker-fight.png" alt="drawing">
 <img src="/assets/art/0/soul-fire.png" alt="drawing">
 <img src="/assets/art/0/plant-three-stages.png" alt="drawing">
 <img src="/assets/art/0/gloomer.png" alt="drawing">
@@ -19,7 +18,6 @@ Większość grafik które zrobiłem(głownie w Aseprite i Krita)
 <img src="/assets/art/0/Sprite-0003.gif" alt="drawing">
 <img src="/assets/art/0/Sprite-0004.gif" alt="drawing">
 <img src="/assets/art/0/Sprite-0005.gif" alt="drawing">
-
 <img src="/assets/art/1/Animal1.png" alt="drawing">
 <img src="/assets/art/1/Character-3.png" alt="drawing">
 <img src="/assets/art/1/Character-4.gif" alt="drawing">

@@ -1,11 +1,11 @@
-# This is GlikoPL Website
+Here will be fruits of my creativity :)
 
-Here you will find things that I made.
+### Stories
+Currently unavaible in english but will be translated at some point
 
-[Art](./graphics.md)
+### [Graphics](./graphics.md)
+Various digital graphics that are made over the years(mostly pixelart)
 
-## Links
+[My friend Gnoun website](https://gnoun.net/)
 
-[My Friend Gnoun Website](https://gnoun.net/)
-
-[My Friend Beetmacol Website](https://beetmacol.com/)
+[My friend BeetMacol website](https://beetmacol.com/)

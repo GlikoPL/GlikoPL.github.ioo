@@ -1,1 +1,1 @@
-My Short Stories are not currently translated into English, sorry.
+My Stories are not currently translated into English, sorry.

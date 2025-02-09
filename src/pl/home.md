@@ -1,14 +1,13 @@
-# Witaj na stronie GlikoPL
-
 Tutaj znajdziesz moją wesołą twórczość artystyczną :)
 
-[Opowiadania](./stories.md)
+### [Opowiadania](./stories.md)
+Moje krótkie, niezredagowane i nieco losowe opowiadania. Nazwane przezemnie Spontaniczne Twory.
 
-[Grafiki](./graphics.md)
+### [Grafiki](./graphics.md)
+Różne komputerowe rysunki(główne pixelart).
 
-[Absurd w Samolocie](./absurd.md)
-
-## Linki
+### [Absurd w Samolocie](./absurd.md)
+Krótka pixel-artowa animacja będąca "ekranizacją" [opowiadania](https://gnoun.net/stories/absurd-001.pdf) moje przylaciela Gnoun'a o tym samym tytule.
 
 [Strona mojego przyjaciela Gnoun'a](https://gnoun.net/)
 
